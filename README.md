@@ -16,7 +16,7 @@ I'm LuckyLuke, a **dedicated** game developer focussing on crafting dynamic game
 ## 🔩 Tech Stack
 <img align="left" alt="C#" width="26px" src="./icons/csharp.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="./icons/cplusplus.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS" width="26px" src="./icons/CSS3.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS" width="26px" src="./icons/css3.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="./icons/html5.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="./icons/javascript.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="./icons/python.svg" style="padding-right:10px;" />
