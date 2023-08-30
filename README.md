@@ -14,22 +14,22 @@ I'm LuckyLuke, a **dedicated** game developer focussing on crafting dynamic game
 - **🕹️ Engine Expertise:** Adept in both Unity and Unreal Engine, specializing in programming immersive gaming experiences.
 
 ## 🔩 Tech Stack
-<img align="left" alt="C#" width="26px" src="./icons/csharp.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="./icons/cplusplus.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS" width="26px" src="./icons/css3.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="./icons/html5.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="./icons/javascript.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="./icons/python.svg" style="padding-right:10px;" />
+[<img align="left" alt="C#" width="26px" src="./icons/csharp.svg" style="padding-right:10px;" />](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<img align="left" alt="C++" width="26px" src="./icons/cplusplus.svg" style="padding-right:10px;" />](https://isocpp.org/)
+[<img align="left" alt="CSS" width="26px" src="./icons/css3.svg" style="padding-right:10px;" />](https://www.w3.org/TR/CSS/)
+[<img align="left" alt="HTML5" width="26px" src="./icons/html5.svg" style="padding-right:10px;" />](https://html.spec.whatwg.org/multipage/)
+[<img align="left" alt="JavaScript" width="26px" src="./icons/javascript.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" alt="Python" width="26px" src="./icons/python.svg" style="padding-right:10px;" />](https://www.python.org/)
 
-<img align="left" alt="Unity" width="26px" src="./icons/unity.svg" style="padding-right:10px;" />
-<img align="left" alt="Unreal Engine" width="26px" src="./icons/unrealengine.svg" style="padding-right:10px;" />
+[<img align="left" alt="Unity" width="26px" src="./icons/unity.svg" style="padding-right:10px;" />](https://unity.com/)
+[<img align="left" alt="Unreal Engine" width="26px" src="./icons/unrealengine.svg" style="padding-right:10px;" />](https://www.unrealengine.com/)
 
-<img align="left" alt="CMake" width="26px" src="./icons/cmake.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="./icons/git.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="./icons/vscode.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio" width="26px" src="./icons/visualstudio.svg" style="padding-right:10px;" />
+[<img align="left" alt="CMake" width="26px" src="./icons/cmake.svg" style="padding-right:10px;" />](https://cmake.org/)
+[<img align="left" alt="Git" width="26px" src="./icons/git.svg" style="padding-right:10px;" />](https://git-scm.com/)
+[<img align="left" alt="Visual Studio Code" width="26px" src="./icons/vscode.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
+[<img align="left" alt="Visual Studio" width="26px" src="./icons/visualstudio.svg" style="padding-right:10px;" />](https://visualstudio.microsoft.com/)
 
-<img align="left" alt="Adobe Photoshop" width="26px" src="./icons/photoshop.svg" style="padding-right:10px;" />
-<img align="left" alt="Adobe Premiere Pro" width="26px" src="./icons/premierepro.svg" style="padding-right:10px;" />
+[<img align="left" alt="Adobe Photoshop" width="26px" src="./icons/photoshop.svg" style="padding-right:10px;" />](https://www.adobe.com/products/photoshop.html)
+[<img align="left" alt="Adobe Premiere Pro" width="26px" src="./icons/premierepro.svg" style="padding-right:10px;" />](https://www.adobe.com/products/premiere.html)
 
-<img align="left" alt="Google Search" width="26px" src="./icons/google.svg" style="padding-right:10px;" />
+[<img align="left" alt="Google Search" width="26px" src="./icons/google.svg" style="padding-right:10px;" />](https://www.google.com/)
