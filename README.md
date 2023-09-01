@@ -6,7 +6,7 @@ I'm a passionate game developer seeking an internship to level up my skills and 
 
 ## 💭 About Me
 
-I'm Lucas, a 2nd-year Bachelor's student in Digital Arts & Entertainment specializing in Game Development. From coding complex systems to optimizing for seamless interactions, I enjoy the intricate details that create immersive experiences. With a background in audiovisual arts, I bring a cinematic eye to game design, crafting captivating visuals that enhance the player's journey. As I continue to explore the endless possibilities of game development, I'm excited to contribute my skills and creativity to creating impactful gaming experiences.
+I'm Lucas, a 3rd-year Bachelor's student in Digital Arts & Entertainment specializing in Game Development. From coding complex systems to optimizing for seamless interactions, I enjoy the intricate details that create immersive experiences. With a background in audiovisual arts, I bring a cinematic eye to game design, crafting captivating visuals that enhance the player's journey. As I continue to explore the endless possibilities of game development, I'm excited to contribute my skills and creativity to creating impactful gaming experiences.
 
 **🗜️ Technical Proficiencies:**
 - **🚀 C++ Maestro:** Proficient in C++, focusing on high-performance game development.
