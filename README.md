@@ -1,6 +1,6 @@
 # Hi there, I'm LuckyLuke!
 
-**🎓 2nd-Year Bachelor in [Digital Arts & Entertainment: Game Development](https://www.digitalartsandentertainment.be/page/31/Game+Development)**
+**🎓 3rd-Year Bachelor in [Digital Arts & Entertainment: Game Development](https://www.digitalartsandentertainment.be/page/31/Game+Development)**
 
 I'm a passionate game developer seeking an internship to level up my skills and create interactive experiences in 3D and 2D game development.
 
@@ -9,7 +9,7 @@ I'm a passionate game developer seeking an internship to level up my skills and 
 I'm Lucas, a 2nd-year Bachelor's student in Digital Arts & Entertainment specializing in Game Development. From coding complex systems to optimizing for seamless interactions, I enjoy the intricate details that create immersive experiences. With a background in audiovisual arts, I bring a cinematic eye to game design, crafting captivating visuals that enhance the player's journey. As I continue to explore the endless possibilities of game development, I'm excited to contribute my skills and creativity to creating impactful gaming experiences.
 
 **🗜️ Technical Proficiencies:**
-- **🚀 C++ Maestro:** Proficient in C++, the heart of powerful and performant game development.
+- **🚀 C++ Maestro:** Proficient in C++, focusing on high-performance game development.
 - **⚙️ Mechanics Enthusiast:** Crafting dynamic gameplay systems, including XP, health, and interaction mechanics.
 - **🕹️ Engine Expertise:** Adept in both Unity and Unreal Engine, specializing in programming immersive gaming experiences.
 
