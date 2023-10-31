@@ -39,7 +39,8 @@ I'm Lucas, a 3rd-year Bachelor's student in Digital Arts & Entertainment special
 ## 🌍 Online Presence
 
 ***Explore and support my online activities***
-
+- 💼 **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/lucaskinoo/)
+- 🌐 **Portfolio:** [My Portfolio Website](https://lucaskinoo.netlify.app/)
+- 🎬 **Vimeo:** [My Movies](https://vimeo.com/lucaskinoo)
 - 🧠 **LeetCode:** [LeetCode Journey](https://leetcode.com/LuckyLuke00)
-- 🎬 **Vimeo:** [View My Work](https://vimeo.com/lucaskinoo)
 - ☕ **Ko-fi:** [Fuel My Creativity](https://ko-fi.com/luckyluke)
