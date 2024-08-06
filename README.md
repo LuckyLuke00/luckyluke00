@@ -38,7 +38,7 @@ I'm Lucas, a gameplay programmer with a Bachelor's in Digital Arts & Entertainme
 
 ***Explore and support my online activities***
 - 💼 **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/lucaskinoo/)
-- 🌐 **Portfolio:** [My Portfolio Website](https://lucaskinoo.netlify.app/)
+- 🌐 **Portfolio:** [My Portfolio Website](https://lucaskinoo.dev/)
 - 🎬 **Vimeo:** [My Movies](https://vimeo.com/lucaskinoo)
 - 🧠 **LeetCode:** [LeetCode Journey](https://leetcode.com/LuckyLuke00)
 - ☕ **Ko-fi:** [Fuel My Creativity](https://ko-fi.com/luckyluke)
